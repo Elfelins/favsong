@@ -5,8 +5,8 @@
 
 body {
     text-align: left;
-    background: #ffdd59;
-    color: #575fcf;
+    background: red;
+    color: gold;
     font-size: 16px;
     line-height: 1.7;
     font-family: 'Inconsolata', monospace;
@@ -22,6 +22,6 @@ body {
 
 .text-inside {
     font-family: 'Signika';
-    color: black;
+    color: silver;
 }
 
