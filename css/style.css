@@ -23,5 +23,6 @@ body {
 .text-inside {
     font-family: 'Signika';
     color: rgb(235, 235, 31);
+    font-size: 14px;
 }
 
