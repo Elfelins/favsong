@@ -1,0 +1,2 @@
+Wyświetlenie listy błędów we wszystich plikach .html:
+npm exec html-validate .
